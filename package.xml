@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Infinity War Horn</title>
+  <id>me.pocke.infinity-warhorn</id>
+  <author>Masataka Pocke Kuwabara</author>
+  <loadPriority>100</loadPriority>
+  <version>0.23.129</version>
+  <description>
+戦争クエストで、敵を呼ぶ角笛を何回でも連続で鳴らせるようにするmodです。
+
+通常角笛は4回鳴らしたあとはしばらく待たないと再度鳴らすことができませんが、このmodはその制約を無くします。
+
+---
+
+This mod allows you to blow the war horn to summon enemies as many times in a row as you like during war quests.
+
+Normally, after blowing the horn four times, you have to wait before you can blow it again, but this mod removes that restriction.
+
+https://github.com/pocke/ElinInfinityWarhornMod
+  </description>
+</Meta>
